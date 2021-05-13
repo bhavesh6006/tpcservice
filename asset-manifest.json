@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tpcservice/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tpcservice/static/js/main.7f1afba4.chunk.js",
-    "main.js.map": "/tpcservice/static/js/main.7f1afba4.chunk.js.map",
+    "main.js": "/tpcservice/static/js/main.61318d1b.chunk.js",
+    "main.js.map": "/tpcservice/static/js/main.61318d1b.chunk.js.map",
     "runtime-main.js": "/tpcservice/static/js/runtime-main.4329c921.js",
     "runtime-main.js.map": "/tpcservice/static/js/runtime-main.4329c921.js.map",
     "static/js/2.f8fd606e.chunk.js": "/tpcservice/static/js/2.f8fd606e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4329c921.js",
     "static/js/2.f8fd606e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7f1afba4.chunk.js"
+    "static/js/main.61318d1b.chunk.js"
   ]
 }
