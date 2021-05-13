@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/tpcservice/static/css/main.3956f79a.chunk.css",
-    "main.js": "/tpcservice/static/js/main.0a7b9517.chunk.js",
-    "main.js.map": "/tpcservice/static/js/main.0a7b9517.chunk.js.map",
-    "runtime-main.js": "/tpcservice/static/js/runtime-main.e3cad996.js",
-    "runtime-main.js.map": "/tpcservice/static/js/runtime-main.e3cad996.js.map",
-    "static/js/2.5dd95549.chunk.js": "/tpcservice/static/js/2.5dd95549.chunk.js",
-    "static/js/2.5dd95549.chunk.js.map": "/tpcservice/static/js/2.5dd95549.chunk.js.map",
-    "static/js/3.d69d55ca.chunk.js": "/tpcservice/static/js/3.d69d55ca.chunk.js",
-    "static/js/3.d69d55ca.chunk.js.map": "/tpcservice/static/js/3.d69d55ca.chunk.js.map",
+    "main.css": "/tpcservice/static/css/main.1b160f5e.chunk.css",
+    "main.js": "/tpcservice/static/js/main.43ea661f.chunk.js",
+    "main.js.map": "/tpcservice/static/js/main.43ea661f.chunk.js.map",
+    "runtime-main.js": "/tpcservice/static/js/runtime-main.3734363a.js",
+    "runtime-main.js.map": "/tpcservice/static/js/runtime-main.3734363a.js.map",
+    "static/js/2.b656a982.chunk.js": "/tpcservice/static/js/2.b656a982.chunk.js",
+    "static/js/2.b656a982.chunk.js.map": "/tpcservice/static/js/2.b656a982.chunk.js.map",
+    "static/js/3.511e0cfc.chunk.js": "/tpcservice/static/js/3.511e0cfc.chunk.js",
+    "static/js/3.511e0cfc.chunk.js.map": "/tpcservice/static/js/3.511e0cfc.chunk.js.map",
     "index.html": "/tpcservice/index.html",
-    "static/css/main.3956f79a.chunk.css.map": "/tpcservice/static/css/main.3956f79a.chunk.css.map",
-    "static/js/2.5dd95549.chunk.js.LICENSE.txt": "/tpcservice/static/js/2.5dd95549.chunk.js.LICENSE.txt",
-    "static/media/logo.0e1a2ed3.png": "/tpcservice/static/media/logo.0e1a2ed3.png"
+    "static/css/main.1b160f5e.chunk.css.map": "/tpcservice/static/css/main.1b160f5e.chunk.css.map",
+    "static/js/2.b656a982.chunk.js.LICENSE.txt": "/tpcservice/static/js/2.b656a982.chunk.js.LICENSE.txt",
+    "static/media/bluedart.4b2de15f.jpg": "/tpcservice/static/media/bluedart.4b2de15f.jpg",
+    "static/media/logo.0e1a2ed3.png": "/tpcservice/static/media/logo.0e1a2ed3.png",
+    "static/media/maruti.27753ad2.png": "/tpcservice/static/media/maruti.27753ad2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3cad996.js",
-    "static/js/2.5dd95549.chunk.js",
-    "static/css/main.3956f79a.chunk.css",
-    "static/js/main.0a7b9517.chunk.js"
+    "static/js/runtime-main.3734363a.js",
+    "static/js/2.b656a982.chunk.js",
+    "static/css/main.1b160f5e.chunk.css",
+    "static/js/main.43ea661f.chunk.js"
   ]
 }
