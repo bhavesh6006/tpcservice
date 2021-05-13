@@ -3,7 +3,8 @@ import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import {
-    Grid
+    Grid,
+    Typography
 } from '@material-ui/core';
 import Logo from '../../assets/logo.png';
 
@@ -24,13 +25,20 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Header(props) {
     const classes = useStyles();
+    const { totalBalance } = props;
 
     return (
         <div className={classes.root}>
             <AppBar position="fixed" className={classes.header}>
                 <Toolbar className='header'>
-                    <Grid className='header-wrapper' item xs={12}>
+                    <Grid className='header-wrapper' item xs={6}>
                         <img src={Logo} alt='' className={classes.img} />
+                    </Grid>
+
+                    <Grid item xs={6}>
+                        <Typography variant='subtitle1' color='primary' className="amount-text" align='right'>
+                            Balance: ₹ {totalBalance}
+                        </Typography>
                     </Grid>
                 </Toolbar>
             </AppBar>

@@ -1,0 +1,67 @@
+{
+    "details": [
+        { 
+            "id": 1, 
+            "bookingDate": "4 April 2021", 
+            "trackingNumber": "21010200040205", 
+            "destination": "Hydrabad", 
+            "amount": 150, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 2, 
+            "bookingDate": "6 April 2021", 
+            "trackingNumber": "21010200040206", 
+            "destination": "Rajasthan", 
+            "amount": 120, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 3, 
+            "bookingDate": "6 April 2021", 
+            "trackingNumber": "21010200040207", 
+            "destination": "Rajasthan", 
+            "amount": 120, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 4, 
+            "bookingDate": "7 April 2021", 
+            "trackingNumber": "21010200040208", 
+            "destination": "Mumbai", 
+            "amount": 490, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 5, 
+            "bookingDate": "7 April 2021", 
+            "trackingNumber": "SSD10746831", 
+            "destination": "Mumbai", 
+            "amount": 70, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 6, 
+            "bookingDate": "8 April 2021", 
+            "trackingNumber": "21010200040209", 
+            "destination": "Navi Mumbai", 
+            "amount": 70, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 7, 
+            "bookingDate": "11 May 2021", 
+            "trackingNumber": "21010200040210", 
+            "destination": "Uttarpradesh", 
+            "amount": 120, 
+            "isAmomuntDispatchPassed": false, 
+            "amountDispatchDate": "" 
+        }
+    ]
+}

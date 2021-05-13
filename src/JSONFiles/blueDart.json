@@ -1,0 +1,40 @@
+{
+    "details": [
+        { 
+            "id": 1, 
+            "bookingDate": "3 April 2021", 
+            "trackingNumber": "15780275910", 
+            "destination": "Jammu", 
+            "amount": 550, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021"  
+        },
+        { 
+            "id": 2, 
+            "bookingDate": "5 April 2021", 
+            "trackingNumber": "15780275921", 
+            "destination": "Navi Mumbai", 
+            "amount": 250, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021"            
+        },
+        { 
+            "id": 3, 
+            "bookingDate": "6 April 2021", 
+            "trackingNumber": "15780276046", 
+            "destination": "Nanded", 
+            "amount": 200, 
+            "isAmomuntDispatchPassed": true, 
+            "amountDispatchDate": "10 April 2021" 
+        },
+        { 
+            "id": 4, 
+            "bookingDate": "12 May 2021", 
+            "trackingNumber": "15780276035", 
+            "destination": "Jammu", 
+            "amount": 400, 
+            "isAmomuntDispatchPassed": false, 
+            "amountDispatchDate": "" 
+        }
+    ]
+}
